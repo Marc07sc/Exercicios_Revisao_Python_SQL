@@ -1,3 +1,6 @@
+# 7. Declare uma variável booleana que verifica se um número (entrada como
+# inteiro) é par, depois imprima o número e o resultado booleano.
+
 num = float(input("Digite um número:"))
 
 if num % 2 == 0:
