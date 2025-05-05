@@ -1,0 +1,1 @@
+UPDATE funcionarios SET salario = salario + 500 WHERE cargo = 'gerente';

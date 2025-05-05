@@ -1,0 +1,1 @@
+DELETE FROM pedidos WHERE data_pedido = '2023-01-01';

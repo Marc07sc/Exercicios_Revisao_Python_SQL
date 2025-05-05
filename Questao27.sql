@@ -1,0 +1,1 @@
+UPDATE pedidos SET status = 'enviado' WHERE id_pedido = 500;

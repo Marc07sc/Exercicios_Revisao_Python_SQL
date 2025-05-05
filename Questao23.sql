@@ -1,0 +1,1 @@
+SELECT nome, preco FROM produtos WHERE preço > 50;
