@@ -18,5 +18,8 @@ elif idade >= 60:
 elif estudante == "S":
     preco_final = preco_ingresso - (preco_ingresso * 0.1)
 
+# Nota: neste caso, ter idade menor ou igual a 12 anos ou idade maior ou igual
+# a 60 anos ao mesmo tempo em que se é estudante, não resulta em desconto cumulativo.
+
 print("O preço final é", preco_final)
 
